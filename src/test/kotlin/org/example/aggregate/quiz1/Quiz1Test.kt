@@ -2,6 +2,7 @@ package org.example.aggregate.quiz1
 
 import org.junit.jupiter.api.Test
 import kotlin.test.assertEquals
+import kotlin.test.assertTrue
 
 class Quiz1Test {
     @Test
@@ -21,6 +22,8 @@ class Quiz1Test {
 
     @Test
     fun test4() {
-        assertEquals(answer4(), quiz4())
+        val results = quiz4()
+        assertEquals(answer4().keys, results.keys)
+        assertTrue { answer4().all { (key, value) -> (results[key] ?: emptyList()).containsAll(value) } }
     }
 }

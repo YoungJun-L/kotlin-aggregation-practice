@@ -1,2 +1,1 @@
-rootProject.name = "kotlin-quiz"
-
+rootProject.name = "kotlin-aggregation-practice"

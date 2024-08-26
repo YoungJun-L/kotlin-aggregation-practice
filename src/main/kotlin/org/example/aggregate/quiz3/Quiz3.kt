@@ -8,7 +8,7 @@ val numbers2 = listOf(3, 4)
  * @return [(1, 3), (1, 4), (2, 3), ...]
  */
 fun quiz1(): List<Pair<Int, Int>> {
-    return emptyList()
+    TODO()
 }
 
 /**
@@ -16,5 +16,5 @@ fun quiz1(): List<Pair<Int, Int>> {
  * @return 12
  */
 fun quiz2(): Int {
-    return 0
+    TODO()
 }

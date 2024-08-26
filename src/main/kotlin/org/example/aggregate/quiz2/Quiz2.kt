@@ -7,7 +7,7 @@ val words = listOf("TONY", "a", "hULK", "B", "america", "X", "nebula", "Korea")
  * @return {T=1, a=2, h=1, B=1, X=1, ...}
  */
 fun quiz1(): Map<Char, Int> {
-    return emptyMap()
+    TODO()
 }
 
 /**
@@ -17,5 +17,5 @@ fun quiz1(): Map<Char, Int> {
  * @return T H A N K
  */
 fun quiz2(): String {
-    return ""
+    TODO()
 }

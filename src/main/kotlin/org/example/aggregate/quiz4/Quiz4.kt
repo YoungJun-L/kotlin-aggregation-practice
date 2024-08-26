@@ -27,7 +27,7 @@ val transactions = listOf(
  * Transaction(trader=Trader(id=2, name=Ming, city=경기), year=2020, value=10000), ...`]`
  */
 fun quiz1(): List<Transaction> {
-    return emptyList()
+    TODO()
 }
 
 /**
@@ -35,7 +35,7 @@ fun quiz1(): List<Transaction> {
  * @return `[`경기, 부산, 서울`]`
  */
 fun quiz2(): List<String> {
-    return emptyList()
+    TODO()
 }
 
 /**
@@ -43,7 +43,7 @@ fun quiz2(): List<String> {
  * @return Hwan, Hyuk, Kyu, Ming
  */
 fun quiz3(): String {
-    return ""
+    TODO()
 }
 
 /**
@@ -51,7 +51,7 @@ fun quiz3(): String {
  * @return true
  */
 fun quiz4(): Boolean {
-    return false
+    TODO()
 }
 
 /**
@@ -61,7 +61,5 @@ fun quiz4(): Boolean {
  * @return (50000, 4500)
  */
 fun quiz5(): Pair<Int, Int> {
-    val max = 0
-    val min = 0
-    return max to min
+    TODO()
 }

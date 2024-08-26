@@ -15,7 +15,7 @@ val data = listOf(
  * @return {축구=3, 농구=2, ...}
  */
 fun quiz1(): Map<String, Int> {
-    return emptyMap()
+    TODO()
 }
 
 /**
@@ -25,7 +25,7 @@ fun quiz1(): Map<String, Int> {
  * @return {축구=2, 농구=1, 야구=0, ...}
  */
 fun quiz2(): Map<String, Int> {
-    return emptyMap()
+    TODO()
 }
 
 /**
@@ -33,7 +33,7 @@ fun quiz2(): Map<String, Int> {
  * @return 8
  */
 fun quiz3(): Int {
-    return 0
+    TODO()
 }
 
 /**
@@ -41,5 +41,5 @@ fun quiz3(): Int {
  * @return {축구=`[`김프로, 정프로, 정프로`]`, 농구=`[`김프로, 정프로`]`, ...}
  */
 fun quiz4(): Map<String, List<String>> {
-    return emptyMap()
+    TODO()
 }

@@ -12,7 +12,7 @@ fun isPrime(num: Int): Boolean {
  * @return 10000019
  */
 fun quiz1(): Int {
-    return 0
+    TODO()
 }
 
 /**
@@ -20,7 +20,7 @@ fun quiz1(): Int {
  * @return `[`10000019, 10000079, 10000103, ...`]`
  */
 fun quiz2(): List<Int> {
-    return emptyList()
+    TODO()
 }
 
 /** 50번째 피보나치 수(F50)
@@ -29,5 +29,5 @@ fun quiz2(): List<Int> {
  * @return 12586269025
  */
 fun quiz3(): Long {
-    return 0
+    TODO()
 }

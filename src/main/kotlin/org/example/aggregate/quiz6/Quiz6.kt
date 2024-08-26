@@ -27,7 +27,7 @@ val students = listOf(
  * false=`[`Student(name=황지미, isMale=false, hak=1, ban=3, score=100), ...`]`}
  */
 fun quiz1(): Map<Boolean, List<Student>> {
-    return emptyMap()
+    TODO()
 }
 
 /**
@@ -35,5 +35,5 @@ fun quiz1(): Map<Boolean, List<Student>> {
  * @return {1={1=550, 2=500, 3=450}, 2={1=750, 2=500, 3=450}}
  */
 fun quiz2(): Map<Int, Map<Int, Int>> {
-    return emptyMap()
+    TODO()
 }

@@ -7,7 +7,7 @@ val words = listOf("aaa", "bb", "c", "dddd")
  * @return 10
  */
 fun quiz1(): Int {
-    return 0
+    TODO()
 }
 
 /**
@@ -15,7 +15,7 @@ fun quiz1(): Int {
  * @return dddd
  */
 fun quiz2(): String {
-    return ""
+    TODO()
 }
 
 /**
@@ -25,7 +25,7 @@ fun quiz2(): String {
  * e.g. `[`3, 6, 7, 22, 34, 37`]`
  */
 fun quiz3(): List<Int> {
-    return emptyList()
+    TODO()
 }
 
 /**
@@ -33,5 +33,5 @@ fun quiz3(): List<Int> {
  * @return [(1, 5), (2, 4), (3, 3), (4, 2), (5, 1)]
  */
 fun quiz4(): List<Pair<Int, Int>> {
-    return emptyList()
+    TODO()
 }
